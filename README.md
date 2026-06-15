@@ -1,46 +1,40 @@
-#👋 Olá, eu sou Ipboy<img width="720" height="732" alt="FB_IMG_287513638654520167" src="https://github.com/user-attachments/assets/359d3746-89db-466c-9381-d06dbc4cadd9" />
+<img width="720" height="732" alt="FB_IMG_287513638654520167" src="https://github.com/user-attachments/assets/856aa83f-cc8e-4387-a48b-977a59caedd2" />
 
+#👋 Olá, eu sou Ipboy
 
-##🚀 Sobre Mim
+##🚀 Sobre mim
 
-Sou um entusiasta de tecnologia em constante aprendizagem, com interesse nas áreas de programação, inteligência artificial, cibersegurança e sistemas de informação geográfica (SIG).
+Sou desenvolvedor em formação, apaixonado por tecnologia, segurança digital e inteligência artificial.
 
-Atualmente estou a desenvolver competências práticas através de estudos, projetos pessoais e participação em iniciativas tecnológicas.
+Estou a construir a minha carreira na área de tecnologia através de projetos práticos, estudo contínuo e participação em desafios de programação.
 
-##🎯 Objetivos
+##🎯 Foco atual
 
-- Aprimorar as minhas competências em Python
-- Dominar Git e GitHub
-- Desenvolver projetos de Inteligência Artificial
-- Evoluir na área de Cibersegurança e Ethical Hacking
-- Construir um portfólio tecnológico sólido
-- Contribuir para projetos de tecnologia e inovação
-
-##📚 Atualmente a Aprender
-
-- Python
-- Git e GitHub
+- Python Development
+- Ethical Hacking & Cybersecurity
 - Inteligência Artificial
-- Linux
-- Cibersegurança
-- Desenvolvimento de Software
+- Sistemas de Informação Geográfica (SIG)
+- Git & GitHub (controlo de versões)
 
-##🛠️ Tecnologias e Ferramentas
+##🧠 Mentalidade
+
+Aprender → Construir → Testar → Evoluir
+
+#$🛠️ Ferramentas
 
 - Python
-- Git
-- GitHub
+- Git / GitHub
 - Linux
 - QGIS
 
-##🌍 Localização
+##🌍 Base
 
 Luanda, Angola
 
-##📈 Jornada
+##📈 Objetivo
 
-Este GitHub representa a minha evolução na área tecnológica. Cada projeto publicado aqui faz parte do meu processo de aprendizagem, desenvolvimento profissional e construção de soluções.
+Criar soluções tecnológicas reais e evoluir para engenheiro de software e segurança digital.
 
 ---
 
-⭐ Aprender, construir e evoluir todos os dias.
+⭐ “Código não é só instrução. É construção de futuro.”
