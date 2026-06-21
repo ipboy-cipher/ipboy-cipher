@@ -1,14 +1,14 @@
 <img width="720" height="732" alt="FB_IMG_287513638654520167" src="https://github.com/user-attachments/assets/856aa83f-cc8e-4387-a48b-977a59caedd2" />
 
-#👋 Olá, eu sou Ipboy
+# 👋 Olá, eu sou Ipboy
 
-##🚀 Sobre mim
+## 🚀 Sobre mim
 
 Sou desenvolvedor em formação, apaixonado por tecnologia, segurança digital e inteligência artificial.
 
 Estou a construir a minha carreira na área de tecnologia através de projetos práticos, estudo contínuo e participação em desafios de programação.
 
-##🎯 Foco atual
+## 🎯 Foco atual
 
 - Python Development
 - Ethical Hacking & Cybersecurity
@@ -16,22 +16,22 @@ Estou a construir a minha carreira na área de tecnologia através de projetos p
 - Sistemas de Informação Geográfica (SIG)
 - Git & GitHub (controlo de versões)
 
-##🧠 Mentalidade
+## 🧠 Mentalidade
 
 Aprender → Construir → Testar → Evoluir
 
-#$🛠️ Ferramentas
+# 🛠️ Ferramentas
 
 - Python
 - Git / GitHub
 - Linux
 - QGIS
 
-##🌍 Base
+## 🌍 Base
 
 Luanda, Angola
 
-##📈 Objetivo
+## 📈 Objetivo
 
 Criar soluções tecnológicas reais e evoluir para engenheiro de software e segurança digital.
 
