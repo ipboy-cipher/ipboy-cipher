@@ -8,12 +8,14 @@ Sou desenvolvedor em formação, apaixonado por tecnologia, segurança digital e
 
 Estou a construir a minha carreira na área de tecnologia através de projetos práticos, estudo contínuo e participação em desafios de programação.
 
-## 🎯 Foco atual
+## Foco Atual
 
-- Python Development
-- Ethical Hacking & Cybersecurity
-- Inteligência Artificial
-- Sistemas de Informação Geográfica (SIG)
+- 🐍 Python Development
+- 🤖 Inteligência Artificial
+- 📱 Desenvolvimento de Aplicações
+- 🎮 Desenvolvimento de Jogos
+- 🔐 Ethical Hacking & Cybersecurity
+- 🌍Sistemas de Informação Geográfica (SIG)
 - Git & GitHub (controlo de versões)
 
 ## 🧠 Mentalidade
@@ -23,9 +25,11 @@ Aprender → Construir → Testar → Evoluir
 # 🛠️ Ferramentas
 
 - Python
-- Git / GitHub
+- HTML, CSS
+- APIs
 - Linux
 - QGIS
+- Git / GitHub
 
 ## 🌍 Base
 
